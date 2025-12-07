@@ -16,4 +16,8 @@ python -m pip install opencv-python
 <img width="623" height="170" alt="obrazek" src="https://github.com/user-attachments/assets/8da55987-cd38-47eb-8e3b-e60f97b2574d" />
 
 - now you will be prompted to select the following:
-	last gtag unity project exported using [AssetRipper](https://github.com/AssetRipper/AssetRipper)
+- **directory to the last gtag unity project exported using [AssetRipper](https://github.com/AssetRipper/AssetRipper)**
+- directory to the **most up-to-date gtag unity project (also using AssetRipper)**
+- directory to a folder to **export all new files to**
+
+- thats it
