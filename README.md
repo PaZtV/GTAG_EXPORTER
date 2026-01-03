@@ -5,7 +5,7 @@
 if you are gonna use this for like a gtag leaks discord server then **please dont have a paid teir**
 
 # HOW TO USE THIS SHIT
-<img width="750" height="500" alt="image" src="https://github.com/user-attachments/assets/79e81c11-d86a-498b-b727-81a621a8cad7" />
+<img width="750" height="500" alt="image" src="https://github.com/user-attachments/assets/79e81c11-d86a-498b-b727-81a621a8cad7" />                 
 
 click these buttons
 now you will be prompted to select the following:
