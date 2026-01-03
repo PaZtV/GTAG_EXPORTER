@@ -6,7 +6,13 @@ if you are gonna use this for like a gtag leaks discord server then **please don
 
 <img width="623" height="170" alt="obrazek" src="https://github.com/user-attachments/assets/8da55987-cd38-47eb-8e3b-e60f97b2574d" />
 
+# HOW TO USE THIS SHIT
+<img width="750" height="500" alt="image" src="https://github.com/user-attachments/assets/79e81c11-d86a-498b-b727-81a621a8cad7" />
+- click these buttons
 - now you will be prompted to select the following:
+  
 - **directory to the last gtag unity project exported using [AssetRipper](https://github.com/AssetRipper/AssetRipper)**
 - directory to the **most up-to-date gtag unity project (also using AssetRipper)**
 - directory to a folder to **export all new files to**
+- make sure you select the folder where the **ExportedProject folder is IN, NOT THE ExportedProject FOLDER ITSELF**
+- then press export and hope it doesnt blow up
