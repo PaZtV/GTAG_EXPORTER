@@ -4,8 +4,6 @@
 ## **!!! DISCLAIMER !!!**
 if you are gonna use this for like a gtag leaks discord server then **please dont have a paid teir**
 
-<img width="623" height="170" alt="obrazek" src="https://github.com/user-attachments/assets/8da55987-cd38-47eb-8e3b-e60f97b2574d" />
-
 # HOW TO USE THIS SHIT
 <img width="750" height="500" alt="image" src="https://github.com/user-attachments/assets/79e81c11-d86a-498b-b727-81a621a8cad7" />
 - click these buttons
