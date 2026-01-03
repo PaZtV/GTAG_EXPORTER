@@ -1,5 +1,5 @@
 # **GTAG EXPORTER**
-```<img width="590" height="89" alt="TING" src="https://github.com/user-attachments/assets/75858804-67bd-4980-ba48-1e2c32f83cb5" />
+<img width="590" height="89" alt="TING" src="https://github.com/user-attachments/assets/75858804-67bd-4980-ba48-1e2c32f83cb5" />
 **Simple python script that parses all files in specified gtag export so you can see all new files easily**
 ## **!!! DISCLAIMER !!!**
 if you are gonna use this for like a gtag leaks discord server then **please dont have a paid teir**
@@ -10,7 +10,7 @@ if you are gonna use this for like a gtag leaks discord server then **please don
 
 python -m pip install image_slicer
 python -m pip install opencv-python
-```
+
 - extract the zip file and run the bat file
 - it should open a cmd window, confirm that you **ARENT DOING ANY PAID TEIR SHIT, IM LOOKING AT YOU GTAG LEAKS**
 
