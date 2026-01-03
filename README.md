@@ -1,5 +1,6 @@
 <img width="590" height="89" alt="TING" src="https://github.com/user-attachments/assets/75858804-67bd-4980-ba48-1e2c32f83cb5" />
-**Simple python script that parses all files in specified gtag export so you can see all new files easily**
+
+# **Simple python script that parses all files in specified gtag export so you can see all new files easily**
 ## **!!! DISCLAIMER !!!**
 if you are gonna use this for like a gtag leaks discord server then **please dont have a paid teir**
 
